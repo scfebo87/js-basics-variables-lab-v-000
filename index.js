@@ -1,1 +1,1 @@
-let companyName = 
+let companyName = 'Scuber'; 
